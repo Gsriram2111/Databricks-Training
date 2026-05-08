@@ -58,12 +58,17 @@ The project covers:
 ```bash
 SQL-Day1-Training/
 │
-├── output/
+├── outputs/
+│   ├── query(1-5).png
+│   ├── query(6-14).png
+│   ├── query(15-22).png
+│   └── query(23-30).png
 │
 ├── datacreation.sql
 ├── answers.sql
 ├── sql practice queries.pdf
 └── README.md
+
 ```
 
 ---
