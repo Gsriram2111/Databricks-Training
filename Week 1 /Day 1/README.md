@@ -62,7 +62,7 @@ SQL-Day1-Training/
 │
 ├── datacreation.sql
 ├── answers.sql
-├── sql practice queries.sql
+├── sql practice queries.pdf
 └── README.md
 ```
 
